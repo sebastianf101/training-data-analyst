@@ -51,3 +51,18 @@ courses/machine_learning/deepdive/03_tensorflow/taxi_trained/
 
 # Rather than specifying checkpoint explictly, use an implicit specification.
 .ipynb_checkpoints
+courses/machine_learning/deepdive2/text_classification/labs/translate_models/baseline/model.h5
+courses/machine_learning/deepdive2/text_classification/labs/translate_models/baseline/encoder_tokenizer.pkl
+courses/machine_learning/deepdive2/text_classification/labs/translate_models/baseline/encoder_model.h5
+courses/machine_learning/deepdive2/text_classification/labs/translate_models/baseline/decoder_tokenizer.pkl
+courses/machine_learning/deepdive2/text_classification/labs/translate_models/baseline/decoder_model.h5
+courses/machine_learning/deepdive2/text_classification/labs/text_models/swivel/validation/events.out.tfevents.1709557244.DESKTOP-QGFR9JK.25483.3.v2
+courses/machine_learning/deepdive2/text_classification/labs/text_models/swivel/train/events.out.tfevents.1709557243.DESKTOP-QGFR9JK.25483.2.v2
+courses/machine_learning/deepdive2/text_classification/labs/text_models/nnlm/validation/events.out.tfevents.1709557200.DESKTOP-QGFR9JK.25483.1.v2
+courses/machine_learning/deepdive2/text_classification/labs/text_models/nnlm/train/events.out.tfevents.1709557197.DESKTOP-QGFR9JK.25483.0.v2
+courses/machine_learning/deepdive2/text_classification/labs/savedmodels/swivel/variables/variables.index
+courses/machine_learning/deepdive2/text_classification/labs/savedmodels/swivel/variables/variables.data-00000-of-00001
+courses/machine_learning/deepdive2/text_classification/labs/savedmodels/swivel/assets/tokens.txt
+courses/machine_learning/deepdive2/text_classification/labs/savedmodels/swivel/saved_model.pb
+courses/machine_learning/deepdive2/text_classification/labs/savedmodels/swivel/fingerprint.pb
+courses/machine_learning/deepdive2/computer_vision_fun/labs/model.png
